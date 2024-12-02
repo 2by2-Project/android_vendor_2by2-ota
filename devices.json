@@ -64,6 +64,13 @@
       "maintainer": "Moto Sedona Team",
       "recovery_images": ["boot", "vendor_boot", "dtbo"],
       "copy_partitions": true
+    },
+    {
+      "codename": "gale",
+      "manufacturer": "Xiaomi",
+      "name": "Redmi 13C 4G",
+      "maintainer": "Mohamed 4k",
+      "recovery_images": ["boot"],
     }
   ]
 }
