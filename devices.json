@@ -70,7 +70,7 @@
       "manufacturer": "Xiaomi",
       "name": "Redmi 13C 4G",
       "maintainer": "Mohamed 4k",
-      "recovery_images": ["boot"],
+      "recovery_images": ["boot"]
     }
   ]
 }
