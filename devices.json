@@ -71,6 +71,13 @@
       "name": "Redmi 13C 4G",
       "maintainer": "Mohamed 4k",
       "recovery_images": ["boot"]
+    },
+    {
+    "codename": "sky",
+    "manufacturer": "Xiaomi",
+    "name": "Redmi12 5g/Pocom6 pro 5g/Redmi note12R",
+    "maintainer": "Dhanush",
+    "recovery_images": ["recovery"]
     }
   ]
 }
