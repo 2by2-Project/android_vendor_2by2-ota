@@ -4,6 +4,8 @@
 - Massive refactor trees
 - Fixed audio service crash
 - Fixed udfps flashbangs
+- Fixed VoLTE
+- Fixed video playback on YouTube/TikTok etc
 - Remove oplus camera
 - Don't include FW images
 - Improve system performance
