@@ -1,83 +1,35 @@
 {
   "devices": [
     {
-      "codename": "sunfish",
-      "manufacturer": "Google",
-      "name": "Google Pixel 4a",
-      "maintainer": "RoshanGP4A",
-      "recovery_images": ["boot"]
-    },
-    {
       "codename": "panther",
       "manufacturer": "Google",
       "name": "Google Pixel 7",
-      "maintainer": "lahaina",
       "recovery_images": ["boot", "vendor_boot", "dtbo", "vendor_kernel_boot"]
-    },
-    {
-      "codename": "hanoip",
-      "manufacturer": "Motorola",
-      "name": "Moto G60 / G40 Fusion",
-      "maintainer": "isg32",
-      "recovery_images": ["boot", "vendor_boot", "dtbo"]
-    },
-    {
-      "codename": "corfur",
-      "manufacturer": "Motorola",
-      "name": "Moto G71 5G",
-      "maintainer": "Juan",
-      "recovery_images": ["boot", "dtbo"]
     },
     {
       "codename": "akita",
       "manufacturer": "Google",
       "name": "Google Pixel 8a",
-      "maintainer": "lahaina",
       "recovery_images": ["boot", "vendor_boot", "dtbo", "vendor_kernel_boot"]
     },
     {
       "codename": "denniz",
       "manufacturer": "OnePlus",
       "name": "OnePlus Nord 2 5G",
-      "maintainer": "lahaina",
       "recovery_images": ["recovery"]
     },
     {
       "codename": "veux",
       "manufacturer": "Xiaomi",
       "name": "Redmi Note 11 Pro 5G",
-      "maintainer": "lahaina",
       "recovery_images": ["boot", "vendor_boot", "dtbo"]
     },
     {
       "codename": "penang",
       "manufacturer": "Motorola",
       "name": "Moto G53 5G",
-      "maintainer": "Moto Sedona Team",
       "recovery_images": ["boot", "vendor_boot", "dtbo"],
       "copy_partitions": true
-    },
-    {
-      "codename": "fogos",
-      "manufacturer": "Motorola",
-      "name": "Moto G34 5G",
-      "maintainer": "Moto Sedona Team",
-      "recovery_images": ["boot", "vendor_boot", "dtbo"],
-      "copy_partitions": true
-    },
-    {
-      "codename": "gale",
-      "manufacturer": "Xiaomi",
-      "name": "Redmi 13C 4G",
-      "maintainer": "Mohamed 4k",
-      "recovery_images": ["boot"]
-    },
-    {
-    "codename": "sky",
-    "manufacturer": "Xiaomi",
-    "name": "Redmi12 5g/Pocom6 pro 5g/Redmi note12R",
-    "maintainer": "Dhanush",
-    "recovery_images": ["recovery"]
     }
   ]
 }

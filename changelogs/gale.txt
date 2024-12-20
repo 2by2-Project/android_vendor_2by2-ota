@@ -1,6 +1,0 @@
-2024/12/1
-- November security patches
-- fix qs lag
-- Selinux enforcing 
-- Performance improvements
-- Switched to libperfmgr
