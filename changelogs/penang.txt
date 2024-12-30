@@ -1,3 +1,11 @@
+2024/12/31
+- Update to Android 15
+- December 2024 Security patches
+- Fixed status bar text position
+- Handle SKU differences at better way
+- Include MobileFeliCaClient for JP variant
+- Optimization for low RAM variants
+
 2024/09/18
 - Synced to latest sources
 - Refactor some trees
