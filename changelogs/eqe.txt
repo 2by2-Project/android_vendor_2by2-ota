@@ -1,0 +1,4 @@
+2025/02/05
+- Initial Android 15 release
+- January security patches
+- Felica is enabled
