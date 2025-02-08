@@ -1,3 +1,8 @@
+2025/02/09
+- January 2025 Security patches
+- Switched to erofs for better performance
+- Disable MobileFelicaClient for non-JP variants
+
 2024/12/31
 - Update to Android 15
 - December 2024 Security patches
