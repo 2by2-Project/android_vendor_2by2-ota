@@ -28,7 +28,7 @@
       "codename": "eqe",
       "manufacturer": "Motorola",
       "name": "Motorola edge 50 / 50s pro",
-      "recovery_images": ["init_boot", "vendor_boot", "recovery"],
+      "recovery_images": ["vendor_boot", "recovery"],
       "copy_partitions": true
     },
     {
