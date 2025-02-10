@@ -1,4 +1,10 @@
+2025/02/11
+- February 2025 security patches
+- Kernel and modules are upgraded to V1UM35H.10-38-1
+
+NOTE: Removed DT2W for prevent freeze issue, we will add later.
+
 2025/02/05
 - Initial Android 15 release
-- January security patches
+- January 2025 security patches
 - Felica is enabled
