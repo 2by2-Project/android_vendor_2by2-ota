@@ -1,3 +1,7 @@
+2025/02/25
+- February 2025 Security patches
+- Introduce MotCamera4 (Photo mode only)
+
 2025/02/09
 - January 2025 Security patches
 - Switched to erofs for better performance
