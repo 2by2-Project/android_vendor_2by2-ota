@@ -1,0 +1,11 @@
+{
+  "devices": [
+    {
+      "codename": "c330ae",
+      "manufacturer": "Rakuten / Tinno",
+      "name": "Rakuten Mini",
+      "version": "15",
+      "recovery_images": ["recovery"]
+    }
+  ]
+}
