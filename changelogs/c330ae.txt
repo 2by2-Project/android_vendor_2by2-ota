@@ -1,8 +1,12 @@
-2026/05/04
-- Initial Android 15 release
+2026/05/29
+- Improved system performance
+- Added glove mode
 
 2026/05/06
 - Enable file encryption
 - Added face unlock feature
 - Added felica support
 - Other fixes & improvements
+
+2026/05/04
+- Initial Android 15 release
