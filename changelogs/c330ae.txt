@@ -1,4 +1,10 @@
-2026/05/29
+2026/06/07
+- Updated to Android 16
+- May 2026 security patches
+- Kernel now upstreamed to 4.19 and BPF backported
+- Very shortened boot times
+- Switched to FBE v2
+- Removed FRP issue
 - Improved system performance
 - Added glove mode
 
