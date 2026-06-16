@@ -12,7 +12,7 @@
       "manufacturer": "Rakuten / Tinno",
       "name": "Rakuten Mini",
       "version": "16",
-      "recovery_images": ["recovery"]
+      "recovery_images": ["dtbo", "recovery"]
     }
   ]
 }
